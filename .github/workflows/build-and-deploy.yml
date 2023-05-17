@@ -1,4 +1,4 @@
-ame: Build and Deploy to Azure
+name: Build and Deploy to Azure
 
 env:
   AZURE_CONTAINER_REGISTRY_NAME: "lawCiCdDemo"  # set this to the name of your Azure Container Registry
